@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635939080885",
+    "firebase_url": "https://homework-5e82b.firebaseio.com",
+    "project_id": "homework-5e82b",
+    "storage_bucket": "homework-5e82b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635939080885:android:ddcd4809f9162936d74cfc",
+        "android_client_info": {
+          "package_name": "com.centafrique.homework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635939080885-aam4crf05evi01i9n13089fpa4bnib2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZ2UxM7HciwGqSoGmCZQdwN-OtqW4gQ-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635939080885-aam4crf05evi01i9n13089fpa4bnib2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
