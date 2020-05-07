@@ -1,9 +1,9 @@
 {
   "project_info": {
     "project_number": "635939080885",
-    "firebase_url": "https://homework-5e82b.firebaseio.com",
-    "project_id": "homework-5e82b",
-    "storage_bucket": "homework-5e82b.appspot.com"
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
@@ -21,7 +21,7 @@
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBZ2UxM7HciwGqSoGmCZQdwN-OtqW4gQ-Y"
+          "current_key": ""
         }
       ],
       "services": {
